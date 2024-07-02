@@ -1,0 +1,5 @@
+registration-form/
+│
+├── index.html      # Main HTML file containing the form
+├── styles.css      # CSS file for styling the form
+└── script.js       # JavaScript file for form validation
